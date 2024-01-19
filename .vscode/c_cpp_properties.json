@@ -1,0 +1,62 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/OsamaUser/AppData/Local/Programs/Microsoft VS Code/PlatformIO/Projects/tobego/include",
+                "C:/Users/OsamaUser/AppData/Local/Programs/Microsoft VS Code/PlatformIO/Projects/tobego/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/Flash/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/OsamaUser/AppData/Local/Programs/Microsoft VS Code/PlatformIO/Projects/tobego/include",
+                    "C:/Users/OsamaUser/AppData/Local/Programs/Microsoft VS Code/PlatformIO/Projects/tobego/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/Flash/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                    "C:/Users/OsamaUser/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                "ARDUINO_AVR_ATmega328P",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++17",
+            "compilerPath": "C:/Users/OsamaUser/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
